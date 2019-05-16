@@ -1,0 +1,21 @@
+aviad dudkewitz
+
+=====================
+=  README for ex11:  =
+=====================
+
+==================
+=  Description:  =
+==================
+
+In this exercise I implement the principle of backtracking.
+
+ex11_backtrack.py - contains a function works in recursive way and
+implements the principle of backtracking.
+ex11_sudoku.py - solve a Sudoku boards using the principle of backtracking.
+ex11_map_coloring.py - Solves the problem of graph coloring for maps of
+countries.
+ex11_improve_backtracking.py - contains improve backtracking functions to
+solve graph coloring.
+
+
